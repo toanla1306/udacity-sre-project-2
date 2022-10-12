@@ -2,7 +2,7 @@
 
 ## AWS Zones
 - Zone 1 (Region: us-east-2): us-east-2a, us-east-2b, us-east-2c
-- Zone 2 (Region: us-west-2): us-west-1b, us-west-1c
+- Zone 2 (Region: us-west-2): us-west-1a, us-west-1b, us-west-1c
 ## Servers and Clusters
 
 ### Table 1.1 Summary
