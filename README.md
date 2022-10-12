@@ -223,6 +223,8 @@ Login to Grafana with `admin` for the username and `prom-operator` for the passw
     3. Please take a screenshot of a successful Terraform run and include that as part of your submission for the project.
          - RDS deploy in 3 az: ![default ns](/screenshot/rds-az/rds-3-az.png)
          - Retention windows to 5 days: ![default ns](/screenshot/rds-az/retention-windows.png)
+         - RDS in zone2: ![default ns](/screenshot/rds-az/rds.png) 
+         - Note: I've just modify code but I forgot screenshot here for RDS in zone2
 
 7. Destroy it all. Zone1 first, then zone2 using `terraform destroy`
     1. Please take a screenshot of the final output from Terraform showing the destroyed resources
